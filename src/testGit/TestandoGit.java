@@ -9,9 +9,11 @@ public class TestandoGit {
 
         System.out.println(gato);
 
-        int a = 5;
+      /*  int a = 5;
         int b = 6;
         int c = 3;
-        System.out.println("Hello World!" + (a + b + c));
+        System.out.println("Hello World!" + (a + b + c));*/
     }
 }
+
+
