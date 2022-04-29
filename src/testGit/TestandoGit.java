@@ -11,6 +11,7 @@ public class TestandoGit {
 
         int a = 5;
         int b = 6;
-        System.out.println("Hello World!" + (a + b));
+        int c = 3;
+        System.out.println("Hello World!" + (a + b + c));
     }
 }
